@@ -1,0 +1,13 @@
+{
+  "name": "nodejs94",
+  "version": "0.0.0",
+  "description": "NODEJS94",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.17.0"
+  }
+}
